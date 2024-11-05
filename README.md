@@ -26,7 +26,7 @@ Please feel free to reach out and talk about ideas!
 - 💬 Worked as a Cloud Security Intern @ Ministry of Electronics and Information Technology;
 - 🎈 I'm a Microsoft Learn Student Ambassador - Beta;
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
-- 📫 Reach out to me: mahima8301@gmail.com
+- 📫 Reach out to me: mohsinrazasepra@gmail.com
 
 
 **Languages and Tools:**  
